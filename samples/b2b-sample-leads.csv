@@ -1,0 +1,12 @@
+
+Lead ID,Company Name,Website,Industry,Company Size,Country,First Name,Last Name,Job Title,Business Email,Verification Status,ICP Fit,Data Type
+LG-001,Demo Cloud Systems,https://cloud.example.com,SaaS,51-200,USA,James,Miller,CEO,james@cloud.example.com,Not Verified,High,Synthetic
+LG-002,Demo Growth Labs,https://growth.example.com,Marketing,11-50,UK,Sarah,Wilson,Founder,sarah@growth.example.com,Not Verified,High,Synthetic
+LG-003,Demo Retail Solutions,https://retail.example.com,E-commerce,51-200,Canada,Daniel,Clark,Marketing Director,daniel@retail.example.com,Not Verified,Medium,Synthetic
+LG-004,Demo Digital Partners,https://digital.example.com,Digital Marketing,11-50,Australia,Emily,Scott,Managing Director,emily@digital.example.com,Not Verified,High,Synthetic
+LG-005,Demo Tech Innovations,https://tech.example.com,Technology,51-200,Germany,Michael,Brown,Head of Growth,michael@tech.example.com,Not Verified,High,Synthetic
+LG-006,Demo Business Advisory,https://advisory.example.com,Consulting,11-50,USA,Olivia,Martin,CEO,olivia@advisory.example.com,Not Verified,High,Synthetic
+LG-007,Demo Property Group,https://property.example.com,Real Estate,51-200,UK,William,Taylor,Sales Director,william@property.example.com,Not Verified,Medium,Synthetic
+LG-008,Demo Commerce Hub,https://commerce.example.com,E-commerce,11-50,Canada,Sophia,Anderson,Founder,sophia@commerce.example.com,Not Verified,High,Synthetic
+LG-009,Demo Software Works,https://software.example.com,SaaS,201-500,USA,Benjamin,Thomas,VP Marketing,benjamin@software.example.com,Not Verified,Medium,Synthetic
+LG-010,Demo Strategy Studio,https://strategy.example.com,Marketing,11-50,Australia,Charlotte,Moore,CEO,charlotte@strategy.example.com,Not Verified,High,Synthetic
