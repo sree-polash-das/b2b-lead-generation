@@ -108,16 +108,53 @@ flowchart TD
 
 These are relevant tools for lead generation workflows. Their inclusion does not imply certification or paid subscription access.
 
-## 08. Repository Roadmap
 
-- [x] Repository initialization
+## 08. Portfolio Resources
+
+Explore the following resources to understand my
+B2B lead generation approach, research methodology,
+and data quality management framework.
+
+| Resource | Description | Access |
+|---|---|---|
+| Sample Lead Database | Structured demonstration dataset | [View Dataset](samples/b2b-sample-leads.csv) |
+| ICP Template | Ideal customer profile development | [View Template](templates/ideal-customer-profile.md) |
+| Quality Assurance | Data validation and quality standards | [View Framework](templates/quality-assurance-checklist.md) |
+| SaaS Case Study | End-to-end lead generation strategy | [View Case Study](case-studies/saas-lead-generation.md) |
+
+### Repository Structure
+
+```text
+b2b-lead-generation/
+├── README.md
+├── samples/
+│   └── b2b-sample-leads.csv
+├── templates/
+│   ├── ideal-customer-profile.md
+│   └── quality-assurance-checklist.md
+└── case-studies/
+    └── saas-lead-generation.md
+```
+
+### Development Status
+
+- [x] Professional documentation
 - [x] Lead generation methodology
 - [x] Database structure
-- [ ] Sample lead databases
-- [ ] Ideal customer profile templates
-- [ ] Quality assurance checklist
-- [ ] Industry-specific research projects
-- [ ] Data processing resources
+- [x] Demonstration lead database
+- [x] Ideal customer profile template
+- [x] Quality assurance framework
+- [x] SaaS demonstration case study
+
+### Future Development
+
+- [ ] Additional industry-specific case studies
+- [ ] Expanded research datasets
+- [ ] Data processing and automation tools
+
+All current datasets and case studies are demonstration
+resources, not verified client project results.
+
 
 ## 09. Privacy & Transparency
 
